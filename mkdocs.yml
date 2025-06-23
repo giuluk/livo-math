@@ -1,0 +1,7 @@
+site_name: LIVO Campus Math
+site_url: https://giuluk.github.io/livo-math/
+theme:
+  name: material
+  language: it
+
+docs_dir: docs
